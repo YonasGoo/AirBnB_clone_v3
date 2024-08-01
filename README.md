@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Yons G - [Github](https://github.com/yonasgoo) / [Twitter](https://twitter.com/yonasgoo)
+Yonas G - [Github](https://github.com/yonasgoo) / [Twitter](https://twitter.com/yonasgoo)
 
 Second part of Airbnb: Joann Vuong
 ## License
