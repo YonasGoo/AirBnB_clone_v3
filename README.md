@@ -156,6 +156,5 @@ No known bugs at this time.
 ## Authors
 Yonas G - [Github](https://github.com/yonasgoo) / [Twitter](https://twitter.com/yonasgoo)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
